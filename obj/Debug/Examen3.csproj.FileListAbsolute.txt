@@ -1,0 +1,2 @@
+C:\Users\ballo\source\repos\Examen3\obj\Debug\Examen3.csproj.AssemblyReference.cache
+C:\Users\ballo\source\repos\Examen3\obj\Debug\Examen3.csproj.CoreCompileInputs.cache
